@@ -45,6 +45,7 @@
 .pictorial-news-section{
 	width:40%;
 	display:flex;
+	text-align:center;
 	flex-direction:column;
 }
 .pictorial-news-section>img{
